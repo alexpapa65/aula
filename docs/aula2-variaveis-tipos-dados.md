@@ -55,17 +55,11 @@ Uma variável possui:
 
 
 ```
-
-
-
 idade ← 20
 
 nome ← "Ana"
 
 altura ← 1.70
-
-
-
 ```
 
 
@@ -102,7 +96,7 @@ Em geral, as variáveis:
 
 - Podem conter números após a primeira letra
 
-- Podem usar o caractere underscore (\_)
+- Podem usar o caractere underscore (_)
 
 
 
@@ -111,17 +105,11 @@ Exemplos válidos:
 
 
 ```
-
-
-
 idade
 
 mediaFinal
 
-quantidade\_alunos
-
-
-
+quantidade_alunos
 ```
 
 
@@ -131,15 +119,9 @@ Exemplos inválidos:
 
 
 ```
-
-
-
 2idade
 
 media final
-
-
-
 ```
 
 
@@ -169,15 +151,9 @@ Exemplos:
 
 
 ```
-
-
-
 idade ← 25
 
 quantidade ← 100
-
-
-
 ```
 
 
@@ -195,15 +171,9 @@ Exemplos:
 
 
 ```
-
-
-
 preco ← 19.90
 
 altura ← 1.75
-
-
-
 ```
 
 
@@ -221,13 +191,7 @@ Exemplo:
 
 
 ```
-
-
-
 letra ← 'A'
-
-
-
 ```
 
 
@@ -245,15 +209,9 @@ Exemplos:
 
 
 ```
-
-
-
 nome ← "Carlos"
 
 mensagem ← "Bom dia!"
-
-
-
 ```
 
 
@@ -277,13 +235,7 @@ Exemplo:
 
 
 ```
-
-
-
 aprovado ← verdadeiro
-
-
-
 ```
 
 
@@ -313,13 +265,7 @@ Exemplo:
 
 
 ```
-
-
-
 inteiro idade ← 18
-
-
-
 ```
 
 
@@ -337,13 +283,7 @@ Exemplo:
 
 
 ```
-
-
-
 idade = 18
-
-
-
 ```
 
 
@@ -387,4 +327,5 @@ As variáveis são responsáveis por armazenar dados durante a execução de um 
 
 
 Dominar esses conceitos é essencial para avançar no estudo da lógica de programação e no aprendizado de qualquer linguagem de programação.
+
 
