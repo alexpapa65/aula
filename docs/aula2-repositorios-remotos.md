@@ -14,10 +14,6 @@ Enquanto o repositório local está na máquina do desenvolvedor, o repositório
 
 
 
----
-
-
-
 ## 2. O que é um Repositório Remoto?
 
 
@@ -37,10 +33,6 @@ Ele permite:
 - Manter um backup online
 
 - Integrar com ferramentas de CI/CD
-
-
-
----
 
 
 
@@ -64,10 +56,6 @@ Essas plataformas oferecem funcionalidades adicionais, como controle de issues, 
 
 
 
----
-
-
-
 ## 4. Conectando um Repositório Local a um Remoto
 
 
@@ -81,13 +69,7 @@ Depois de criar um repositório remoto em uma plataforma, é necessário conect�
 
 
 ```
-
-
-
-git remote add origin \[https://github.com/usuario/projeto.git](https://github.com/usuario/projeto.git)
-
-
-
+git remote add origin https://github.com/usuario/projeto.git
 ```
 
 
@@ -107,18 +89,8 @@ Nesse comando:
 
 
 ```
-
-
-
 git remote -v
-
-
-
 ```
-
-
-
----
 
 
 
@@ -131,13 +103,7 @@ Para enviar commits do repositório local para o remoto, utiliza-se o comando:
 
 
 ```
-
-
-
 git push origin main
-
-
-
 ```
 
 
@@ -149,10 +115,6 @@ Esse comando:
 - Envia as alterações da branch `main`
 
 - Atualiza o repositório remoto com os commits locais
-
-
-
----
 
 
 
@@ -169,13 +131,7 @@ Para criar uma cópia local de um repositório remoto:
 
 
 ```
-
-
-
-git clone \[https://github.com/usuario/projeto.git](https://github.com/usuario/projeto.git)
-
-
-
+git clone https://github.com/usuario/projeto.git
 ```
 
 
@@ -189,22 +145,12 @@ Para baixar alterações feitas por outras pessoas:
 
 
 ```
-
-
-
 git pull origin main
-
-
-
 ```
 
 
 
 O comando `git pull` busca e integra as alterações do repositório remoto na branch atual.
-
-
-
----
 
 
 
@@ -237,18 +183,8 @@ O comando abaixo busca as alterações do remoto, mas não as integra automatica
 
 
 ```
-
-
-
 git fetch origin
-
-
-
 ```
-
-
-
----
 
 
 
@@ -272,10 +208,6 @@ Um fluxo comum utilizando repositórios remotos é:
 
 
 
----
-
-
-
 ## 9. Conclusão
 
 
@@ -285,6 +217,7 @@ Repositórios Git remotos são essenciais para o trabalho colaborativo e para a 
 
 
 Dominar o uso de repositórios remotos é um passo fundamental para atuar profissionalmente com desenvolvimento de software.
+
 
 
 
