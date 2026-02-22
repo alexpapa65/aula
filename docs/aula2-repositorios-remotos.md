@@ -1,10 +1,10 @@
 ```markdown
 
-\# Repositórios Git Remotos
+# Repositórios Git Remotos
 
 
 
-\## 1. Introdução
+## 1. Introdução
 
 
 
@@ -20,7 +20,7 @@ Enquanto o repositório local está na máquina do desenvolvedor, o repositório
 
 
 
-\## 2. O que é um Repositório Remoto?
+## 2. O que é um Repositório Remoto?
 
 
 
@@ -32,13 +32,13 @@ Ele permite:
 
 
 
-\- Compartilhar código com outras pessoas
+- Compartilhar código com outras pessoas
 
-\- Trabalhar em equipe
+- Trabalhar em equipe
 
-\- Manter um backup online
+- Manter um backup online
 
-\- Integrar com ferramentas de CI/CD
+- Integrar com ferramentas de CI/CD
 
 
 
@@ -46,7 +46,7 @@ Ele permite:
 
 
 
-\## 3. Plataformas de Hospedagem
+## 3. Plataformas de Hospedagem
 
 
 
@@ -54,11 +54,11 @@ Algumas das principais plataformas que hospedam repositórios Git são:
 
 
 
-\- GitHub
+- GitHub
 
-\- GitLab
+- GitLab
 
-\- Bitbucket
+- Bitbucket
 
 
 
@@ -70,7 +70,7 @@ Essas plataformas oferecem funcionalidades adicionais, como controle de issues, 
 
 
 
-\## 4. Conectando um Repositório Local a um Remoto
+## 4. Conectando um Repositório Local a um Remoto
 
 
 
@@ -78,7 +78,7 @@ Depois de criar um repositório remoto em uma plataforma, é necessário conect�
 
 
 
-\### 4.1 Adicionando um repositório remoto
+### 4.1 Adicionando um repositório remoto
 
 
 
@@ -98,13 +98,13 @@ Nesse comando:
 
 
 
-\- `origin` é o nome padrão dado ao repositório remoto
+- `origin` é o nome padrão dado ao repositório remoto
 
-\- A URL indica onde o projeto está hospedado
+- A URL indica onde o projeto está hospedado
 
 
 
-\### 4.2 Verificando os repositórios remotos configurados
+### 4.2 Verificando os repositórios remotos configurados
 
 
 
@@ -124,7 +124,7 @@ git remote -v
 
 
 
-\## 5. Enviando Alterações para o Repositório Remoto
+## 5. Enviando Alterações para o Repositório Remoto
 
 
 
@@ -148,9 +148,9 @@ Esse comando:
 
 
 
-\- Envia as alterações da branch `main`
+- Envia as alterações da branch `main`
 
-\- Atualiza o repositório remoto com os commits locais
+- Atualiza o repositório remoto com os commits locais
 
 
 
@@ -158,11 +158,11 @@ Esse comando:
 
 
 
-\## 6. Baixando Alterações do Repositório Remoto
+## 6. Baixando Alterações do Repositório Remoto
 
 
 
-\### 6.1 Clonando um repositório
+### 6.1 Clonando um repositório
 
 
 
@@ -182,7 +182,7 @@ git clone \[https://github.com/usuario/projeto.git](https://github.com/usuario/p
 
 
 
-\### 6.2 Atualizando o repositório local
+### 6.2 Atualizando o repositório local
 
 
 
@@ -210,11 +210,11 @@ O comando `git pull` busca e integra as alterações do repositório remoto na b
 
 
 
-\## 7. Conceitos Importantes
+## 7. Conceitos Importantes
 
 
 
-\### 7.1 Branch
+### 7.1 Branch
 
 
 
@@ -222,7 +222,7 @@ Uma branch é uma linha de desenvolvimento independente dentro do repositório.
 
 
 
-\### 7.2 Origin
+### 7.2 Origin
 
 
 
@@ -230,7 +230,7 @@ Uma branch é uma linha de desenvolvimento independente dentro do repositório.
 
 
 
-\### 7.3 Fetch
+### 7.3 Fetch
 
 
 
@@ -254,7 +254,7 @@ git fetch origin
 
 
 
-\## 8. Fluxo Básico de Trabalho
+## 8. Fluxo Básico de Trabalho
 
 
 
@@ -278,7 +278,7 @@ Um fluxo comum utilizando repositórios remotos é:
 
 
 
-\## 9. Conclusão
+## 9. Conclusão
 
 
 
@@ -289,6 +289,7 @@ Repositórios Git remotos são essenciais para o trabalho colaborativo e para a 
 Dominar o uso de repositórios remotos é um passo fundamental para atuar profissionalmente com desenvolvimento de software.
 
 ```
+
 
 
 
