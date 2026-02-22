@@ -1,5 +1,3 @@
-```markdown
-
 # Repositórios Git Remotos
 
 
@@ -262,15 +260,15 @@ Um fluxo comum utilizando repositórios remotos é:
 
 
 
-1\. Clonar o projeto
+1. Clonar o projeto
 
-2\. Criar uma branch para desenvolvimento
+2. Criar uma branch para desenvolvimento
 
-3\. Fazer alterações e commits locais
+3. Fazer alterações e commits locais
 
-4\. Enviar a branch para o repositório remoto
+4. Enviar a branch para o repositório remoto
 
-5\. Criar um pull request para revisão
+5. Criar um pull request para revisão
 
 
 
@@ -287,8 +285,6 @@ Repositórios Git remotos são essenciais para o trabalho colaborativo e para a 
 
 
 Dominar o uso de repositórios remotos é um passo fundamental para atuar profissionalmente com desenvolvimento de software.
-
-```
 
 
 
