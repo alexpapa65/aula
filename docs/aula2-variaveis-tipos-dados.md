@@ -1,10 +1,8 @@
-```markdown
-
-\# Variáveis e Tipos de Dados na Lógica de Programação
+# Variáveis e Tipos de Dados na Lógica de Programação
 
 
 
-\## 1. Introdução
+## 1. Introdução
 
 
 
@@ -20,11 +18,11 @@ Antes de aprender uma linguagem específica, é essencial compreender esses conc
 
 
 
-\## 2. Variáveis
+## 2. Variáveis
 
 
 
-\### 2.1 Conceito
+### 2.1 Conceito
 
 
 
@@ -36,7 +34,7 @@ Podemos pensar em uma variável como uma "caixa identificada", onde guardamos um
 
 
 
-\### 2.2 Estrutura básica
+### 2.2 Estrutura básica
 
 
 
@@ -44,15 +42,15 @@ Uma variável possui:
 
 
 
-\- Nome (identificador)
+- Nome (identificador)
 
-\- Tipo de dado
+- Tipo de dado
 
-\- Valor
+- Valor
 
 
 
-\### 2.3 Exemplo em pseudocódigo
+### 2.3 Exemplo em pseudocódigo
 
 
 
@@ -76,11 +74,11 @@ Nesse exemplo:
 
 
 
-\- `idade` armazena um número inteiro
+- `idade` armazena um número inteiro
 
-\- `nome` armazena um texto
+- `nome` armazena um texto
 
-\- `altura` armazena um número real
+- `altura` armazena um número real
 
 
 
@@ -88,7 +86,7 @@ Nesse exemplo:
 
 
 
-\## 3. Regras para nomear variáveis
+## 3. Regras para nomear variáveis
 
 
 
@@ -96,15 +94,15 @@ Em geral, as variáveis:
 
 
 
-\- Devem começar com letra
+- Devem começar com letra
 
-\- Não podem conter espaços
+- Não podem conter espaços
 
-\- Não podem usar palavras reservadas da linguagem
+- Não podem usar palavras reservadas da linguagem
 
-\- Podem conter números após a primeira letra
+- Podem conter números após a primeira letra
 
-\- Podem usar o caractere underscore (\_)
+- Podem usar o caractere underscore (\_)
 
 
 
@@ -150,7 +148,7 @@ media final
 
 
 
-\## 4. Tipos de Dados
+## 4. Tipos de Dados
 
 
 
@@ -158,7 +156,7 @@ Os tipos de dados definem que tipo de valor uma variável pode armazenar. Eles t
 
 
 
-\### 4.1 Inteiro
+### 4.1 Inteiro
 
 
 
@@ -184,7 +182,7 @@ quantidade ← 100
 
 
 
-\### 4.2 Real (ou Decimal)
+### 4.2 Real (ou Decimal)
 
 
 
@@ -210,7 +208,7 @@ altura ← 1.75
 
 
 
-\### 4.3 Caractere
+### 4.3 Caractere
 
 
 
@@ -234,7 +232,7 @@ letra ← 'A'
 
 
 
-\### 4.4 Cadeia de Caracteres (String)
+### 4.4 Cadeia de Caracteres (String)
 
 
 
@@ -260,7 +258,7 @@ mensagem ← "Bom dia!"
 
 
 
-\### 4.5 Booleano (Lógico)
+### 4.5 Booleano (Lógico)
 
 
 
@@ -268,9 +266,9 @@ Armazena apenas dois valores possíveis:
 
 
 
-\- verdadeiro
+- verdadeiro
 
-\- falso
+- falso
 
 
 
@@ -294,7 +292,7 @@ aprovado ← verdadeiro
 
 
 
-\## 5. Tipagem
+## 5. Tipagem
 
 
 
@@ -302,7 +300,7 @@ A tipagem refere-se à forma como os tipos de dados são tratados.
 
 
 
-\### 5.1 Tipagem Estática
+### 5.1 Tipagem Estática
 
 
 
@@ -326,7 +324,7 @@ inteiro idade ← 18
 
 
 
-\### 5.2 Tipagem Dinâmica
+### 5.2 Tipagem Dinâmica
 
 
 
@@ -354,7 +352,7 @@ idade = 18
 
 
 
-\## 6. Importância na Lógica de Programação
+## 6. Importância na Lógica de Programação
 
 
 
@@ -362,13 +360,13 @@ Variáveis e tipos de dados são importantes porque:
 
 
 
-\- Permitem armazenar informações temporárias
+- Permitem armazenar informações temporárias
 
-\- Organizam os dados dentro do algoritmo
+- Organizam os dados dentro do algoritmo
 
-\- Evitam erros de operação
+- Evitam erros de operação
 
-\- Tornam o código mais claro e estruturado
+- Tornam o código mais claro e estruturado
 
 
 
@@ -380,7 +378,7 @@ Sem variáveis, não seria possível criar programas que interagem com dados ou 
 
 
 
-\## 7. Conclusão
+## 7. Conclusão
 
 
 
@@ -389,8 +387,4 @@ As variáveis são responsáveis por armazenar dados durante a execução de um 
 
 
 Dominar esses conceitos é essencial para avançar no estudo da lógica de programação e no aprendizado de qualquer linguagem de programação.
-
-```
-
-
 
