@@ -44,13 +44,14 @@ Define um caminho para o caso verdadeiro e um caminho alternativo para o caso fa
 
 SE (idade >= 18) ENTÃO
 
-&nbsp;   Escreva("Maior de idade")
+   Escreva("Maior de idade")
 
 SENÃO
 
-&nbsp;   Escreva("Menor de idade")
+   Escreva("Menor de idade")
 
 FIM_SE
+
 
 
 
